@@ -25,11 +25,10 @@ This is a Graphical User Interface program which collects username and password 
 
 **show()** - This function is invoked when the show button is clicked. It shows the username and encrypted password.
 
-©Arjun_S_Prasad
 ## Conclusion
 Final Output of the project will be storing and viewing encrypted passwords and their username respectively. Sample output is shown below:
 
 ![image](https://user-images.githubusercontent.com/72243394/200180929-ff263b22-9002-47f6-816d-82e80e125e3f.png)
 
-
+©Arjun_S_Prasad
 
