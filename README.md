@@ -22,6 +22,7 @@ This is a Graphical User Interface program which collects username and password 
 
 ### Functions
 **ValidateLogin()** - This function is invoked when the Add button is clicked. It encrypts the password using ROT 13 encryption algorithm and stores in a database. 
+
 **show()** - This function is invoked when the show button is clicked. It shows the username and encrypted password.
 
 ## Conclusion
